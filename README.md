@@ -25,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vit0riasilva&theme=moltack&show_icons=true&locale=en" alt="vit0riasilva" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vit0riasilva" alt="vit0riasilva" /></a> </p>
