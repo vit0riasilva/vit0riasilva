@@ -23,5 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vit0riasilva&theme=moltack&show_icons=true&locale=en&layout=compact" alt="vit0riasilva" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vit0riasilva&theme=moltack&show_icons=true&locale=en" alt="vit0riasilva" /></p>
+<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=vit0riasilva&theme=moltack&show_icons=true&locale=en" alt="vit0riasilva" /></p>
 
